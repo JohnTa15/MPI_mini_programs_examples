@@ -11,5 +11,5 @@ MPI program examples
 3. Ready
 
 ### Run
-mpicc name.c -o name
-mpirun np -(process number ex. 4) ./name
+* mpicc name.c -o name
+* mpirun np -(process number ex. 4) ./name 
