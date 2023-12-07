@@ -13,5 +13,3 @@ MPI program examples
 ### Run
 * mpicc name.c -o name
 * mpirun np -(process number ex. 4) ./name 
-
-[Screenshot_ubuntu20.04_cli_2023-12-07_19:44:00.png]
