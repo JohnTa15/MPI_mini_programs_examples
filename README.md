@@ -12,4 +12,7 @@ MPI program examples
 
 ### Run
 * mpicc name.c -o name
-* mpirun np -(process number ex. 4) ./name 
+* mpirun np -(process number ex. 4) ./name
+
+![screen!]()
+![screen2](https://github.com/JohnTa15/MPI_mini_programs_examples/blob/main/Screenshot_ubuntu20.04_cli_2023-12-07_19%3A44%3A28.png)
